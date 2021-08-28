@@ -2,5 +2,7 @@
 
 - 🔭 I’m currently working on Minecraft PvP Client
 - 🌱 I’m currently learning Java and HTML
-- 📫 How to reach me: YouTube - VojtasCz, Discord - VojtasCz#9999
 - 😄 Pronouns: He/His
+- 📫 How to reach me:
+- [YouTube] (https://www.youtube.com/channel/UC4hm29UzyBwPB6ws65Rre3g)
+
