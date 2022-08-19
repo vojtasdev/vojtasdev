@@ -1,10 +1,9 @@
-### Hey there, i am Vojtas! 👋
+### Hey there, i'm Vojtas! 👋
 
 - 🌱 I’m currently coding in **Java, HTML, JS, CSS**
 - 🎨 I like to code in **Eclipse IDE**, **Visual Studio Code** and also **Intellij IDEA**
 
- # 🤝 Reach me
- 
+ # 🤝 Reach me 
  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/718145305601638473)
  
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_vojtascz_/)
@@ -13,7 +12,6 @@
 
   
  # 🏆 I'm currently working on 
-
  - Improving my programming skills
  - Some projects
   
