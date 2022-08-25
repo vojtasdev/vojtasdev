@@ -13,7 +13,7 @@
   
 # 🏆 I'm currently working on 
  - Improving my programming skills
- - Some projects
+ - Creating my own portfolio website
   
 # 🔎 My programming languages 
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
